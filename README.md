@@ -35,11 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The confutation of the abbote of Crosraguels masse, set furth by Maister George Hay ...Hay, George, 
+
+1. The Prenter to the Reader.
+
+1. The Epistle. To the moste Noble, potent, and godly Lorde Iames, Earle of Murray, the Author wisheth grace, mercy, peace, and increase of heauenly giftes of the Spirite of God.
+ACcording to the approued, laudable, and receaued vse of writers, that do trauell in any argument of
 #####Body#####
-The confutation of the abbote of Crosraguels masse, set furth by Maister George Hay ...Hay, George, 
+
+1. Heir followeth the Confutation of the Abbote of Crosraguels Masse, made by maister George Haye,
+TO this treaty of the masse, this Author subiuneth a certane addition, which he tearmeth appendix, a
 #####Back#####
-The confutation of the abbote of Crosraguels masse, set furth by Maister George Hay ...Hay, George, 
+Imprinted at Edinburgh, by Robert Lekpreuik, and are to be sould at his hous at the nether Bow. Anno
+1. Ite, Missa est.
+
 **Types of content**
 
   * There are 2 **verse** lines!
